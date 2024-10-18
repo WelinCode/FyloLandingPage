@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,300..900;1,300..900&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: 'Red Hat Display', serif;
+}
+
+body {
+  max-width: 1440px;
+  width: 100%;
+  margin: 0 auto;
+  height: 100%;
+  /* background-color: red; */
+}
+
+.container {
+  background-image: url(../images/bg-curve-desktop.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.head {
+  width: 88.88%;
+  height: 49px;
+  display: flex;
+  justify-content: space-between;
+  margin: 50px 0 0 70px;
+}
+
+.head .navbar .items {
+  display: flex;
+  gap: 40px;
+}
+
+.head .navbar .items a {
+  color: #07043b;
+}
+
+.seccion1 {
+  width: 88.88%;
+  height: 304px;
+  position: relative;
+  top: 116px;
+  left: 80px;
+}
+
+.seccion1 img {
+  width: 440px;
+  height: 300px;
+  position: absolute;
+  left: 640px;
+}
+
+.seccion1 .filesContent {
+  width: 400px;
+}

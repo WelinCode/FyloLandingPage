@@ -1,47 +1,47 @@
-# Front-end Style Guide
+# Guía de Estilo para el Front-end
 
-## Layout
+## Diseño
 
-The designs were created to the following widths:
+Los diseños fueron creados para los siguientes anchos:
 
-- Mobile: 375px
-- Desktop: 1440px
+- Móvil: 375px
+- Escritorio: 1440px
 
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+> 💡 Estos son solo los tamaños de diseño. Asegúrate de que el contenido sea responsivo y cumpla con los requisitos de WCAG probando en todo el rango de tamaños de pantalla, desde 320px hasta pantallas grandes.
 
-## Colors
+## Colores
 
-### Primary
+### Primarios
 
-- Very Dark Blue: hsl(243, 87%, 12%)
-- Desaturated Blue: hsl(238, 22%, 44%)
+- Azul Muy Oscuro: hsl(243, 87%, 12%)
+- Azul Desaturado: hsl(238, 22%, 44%)
 
-### Accent
+### Acentos
 
-- Bright Blue: hsl(224, 93%, 58%)
-- Moderate Cyan: hsl(170, 45%, 43%)
+- Azul Brillante: hsl(224, 93%, 58%)
+- Cian Moderado: hsl(170, 45%, 43%)
 
-### Neutral
+### Neutros
 
-- Light Grayish Blue: hsl(240, 75%, 98%)
-- Light Gray: hsl(0, 0%, 75%)
+- Azul Grisáceo Claro: hsl(240, 75%, 98%)
+- Gris Claro: hsl(0, 0%, 75%)
 
-## Typography
+## Tipografía
 
-### Body Copy
+### Cuerpo del Texto
 
-- Font size (paragraph): 16px
+- Tamaño de fuente (párrafo): 16px
 
-### Fonts
+### Fuentes
 
-#### Headings, Call-to-actions, Header Navigation
+#### Encabezados, Llamados a la acción, Navegación del encabezado
 
-- Family: [Raleway](https://fonts.google.com/specimen/Raleway)
-- Weights: 400, 700
+- Familia: [Raleway](https://fonts.google.com/specimen/Raleway)
+- Pesos: 400, 700
 
-#### Body
+#### Cuerpo
 
-- Family: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
-- Weights: 400
+- Familia: [Open Sans](https://fonts.google.com/specimen/Open+Sans)
+- Pesos: 400
 
-> 💎 [Upgrade to Pro](https://www.frontendmentor.io/pro?ref=style-guide) for design file access to see all design details and get hands-on experience using a professional workflow with tools like Figma.
+> 💎 [Actualiza a Pro](https://www.frontendmentor.io/pro?ref=style-guide) para acceder a los archivos de diseño y ver todos los detalles del diseño, además de obtener experiencia práctica usando un flujo de trabajo profesional con herramientas como Figma.
